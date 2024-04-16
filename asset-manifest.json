@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/defi-Token/static/css/main.1d6b369f.css",
-    "main.js": "/defi-Token/static/js/main.c4c5338c.js",
+    "main.css": "/defi-Token/static/css/main.33fd960b.css",
+    "main.js": "/defi-Token/static/js/main.f2e4d3be.js",
     "static/media/video.mp4": "/defi-Token/static/media/video.a2703484bb9eee7d0c2e.mp4",
     "static/media/terminal.png": "/defi-Token/static/media/terminal.008c23b28e62ddbd576c.png",
     "index.html": "/defi-Token/index.html",
-    "main.1d6b369f.css.map": "/defi-Token/static/css/main.1d6b369f.css.map",
-    "main.c4c5338c.js.map": "/defi-Token/static/js/main.c4c5338c.js.map"
+    "main.33fd960b.css.map": "/defi-Token/static/css/main.33fd960b.css.map",
+    "main.f2e4d3be.js.map": "/defi-Token/static/js/main.f2e4d3be.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d6b369f.css",
-    "static/js/main.c4c5338c.js"
+    "static/css/main.33fd960b.css",
+    "static/js/main.f2e4d3be.js"
   ]
 }
